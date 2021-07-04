@@ -7,12 +7,19 @@
 }
 .margin {
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 .img-circle {
-  padding: 20px;
+  padding: 30px;
 }
 .parceiros {
   background-color: #e5e8e8;
+}
+
+.bg-footer {
+  background-color: #5f6a6a;
+  padding: 20px;
+  font-size: 20px;
+  color: #f4f6f7;
 }
